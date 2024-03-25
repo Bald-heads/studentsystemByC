@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zengxiangrui/CLionProjects/studentSystem/main.cpp
+stdio.h
+/Users/zengxiangrui/CLionProjects/studentSystem/stdio.h
+stdlib.h
+/Users/zengxiangrui/CLionProjects/studentSystem/stdlib.h
+string.h
+/Users/zengxiangrui/CLionProjects/studentSystem/string.h
+static_veriable.h
+/Users/zengxiangrui/CLionProjects/studentSystem/static_veriable.h
+struct_veriable.h
+/Users/zengxiangrui/CLionProjects/studentSystem/struct_veriable.h
+util_functions.h
+/Users/zengxiangrui/CLionProjects/studentSystem/util_functions.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/static_veriable.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/struct_veriable.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/util_functions.h
+
