@@ -89,6 +89,9 @@
 		<Unit filename="/Users/zengxiangrui/CLionProjects/studentSystem/operation_data.h">
 			<Option target="studentSystem"/>
 		</Unit>
+		<Unit filename="/Users/zengxiangrui/CLionProjects/studentSystem/static_user_action.h">
+			<Option target="studentSystem"/>
+		</Unit>
 		<Unit filename="/Users/zengxiangrui/CLionProjects/studentSystem/static_veriable.h">
 			<Option target="studentSystem"/>
 		</Unit>

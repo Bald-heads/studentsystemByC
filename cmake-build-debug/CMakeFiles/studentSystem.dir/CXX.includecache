@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/Users/zengxiangrui/CLionProjects/studentSystem/copy.h
+
 /Users/zengxiangrui/CLionProjects/studentSystem/main.cpp
 stdio.h
 /Users/zengxiangrui/CLionProjects/studentSystem/stdio.h
@@ -19,10 +21,24 @@ struct_veriable.h
 /Users/zengxiangrui/CLionProjects/studentSystem/struct_veriable.h
 util_functions.h
 /Users/zengxiangrui/CLionProjects/studentSystem/util_functions.h
+operation_data.h
+/Users/zengxiangrui/CLionProjects/studentSystem/operation_data.h
+static_user_action.h
+/Users/zengxiangrui/CLionProjects/studentSystem/static_user_action.h
+copy.h
+/Users/zengxiangrui/CLionProjects/studentSystem/copy.h
+wacher.h
+/Users/zengxiangrui/CLionProjects/studentSystem/wacher.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/operation_data.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/static_user_action.h
 
 /Users/zengxiangrui/CLionProjects/studentSystem/static_veriable.h
 
 /Users/zengxiangrui/CLionProjects/studentSystem/struct_veriable.h
 
 /Users/zengxiangrui/CLionProjects/studentSystem/util_functions.h
+
+/Users/zengxiangrui/CLionProjects/studentSystem/wacher.h
 

@@ -6,7 +6,7 @@
 #define STUDENTSYSTEM_OPERATION_DATA_H
 
 void appendData(Student *array, int size, Student payload) {
-    array[++size] = payload;
+    array[size] = payload;
 }
 
 #endif //STUDENTSYSTEM_OPERATION_DATA_H
